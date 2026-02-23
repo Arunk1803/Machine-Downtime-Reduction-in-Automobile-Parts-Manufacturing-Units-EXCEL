@@ -1,64 +1,48 @@
-# Machine-Downtime-Reduction-in-Automobile-Parts-Manufacturing-Units-EXCEL
-Built Excel dashboard to analyze machine downtime data using formulas and reporting.
-Project Overview
+ 🚀 **PROJECT OVERVIEW**
 
-Study focuses on reducing machine downtime in an automobile parts manufacturing unit.
+* Study focuses on reducing machine downtime in an automobile parts manufacturing unit.
+* Analyzes CNC machine performance impacting daily production targets.
+* Identifies operational inefficiencies using data-driven analysis.
 
-Analyzes CNC machine performance affecting daily production targets.
+---
 
-Identifies operational inefficiencies through data-driven analysis.
+## 📌 **PROJECT STEPS**
 
-Project Steps
-1. Data Set Overview
+### 📊 **1. DATA SET OVERVIEW**
 
-Data collected gathered in industry reports. 
+* Data collected for 2 days of CNC machine operations.
+* Includes Date, Shift, Operator, Machine ID.
+* Captures Total Production, Planned Downtime, Unplanned Downtime, and Achievement %.
 
-Includes Date, Shift, Operator, Machine ID.
+### 🧮 **2. ANALYTICAL METHODS**
 
-Captures Total Production, Planned Downtime, Unplanned Downtime, and Achievement %.
+* Data cleaning and validation.
+* Calculation of Downtime % and Production Achievement %.
+* Pivot table analysis for machine, shift, and operator comparison.
+* Dashboard charts for performance visualization.
 
-2. Analytical Methods
+### 🎯 **3. SCOPE OF THE STUDY**
 
-Data cleaning and validation.
+* Limited to CNC machines only.
+* Focuses on productivity and downtime analysis.
+* Excludes cost analysis and maintenance log evaluation.
 
-Calculation of Downtime % and Production Achievement %.
+### 📈 **4. DATA SET AND ANALYSIS**
 
-Pivot table analysis for machine, shift, and operator comparison.
+* Machine-wise downtime comparison.
+* Planned vs. Unplanned downtime analysis.
+* Shift-wise and operator-wise performance comparison.
+* Target vs. actual production gap analysis.
 
-Dashboard charts for performance visualization.
+### 💡 **5. INSIGHTS DELIVERED**
 
-3. Scope of the Study
+* Identification of high-downtime machines.
+* Detection of frequent unplanned downtime patterns.
+* Performance variation across shifts and operators.
+* System-level inefficiencies affecting production targets.
 
-Limited to CNC machines only.
+### 🏁 **6. FINAL OUTPUT**
 
-Focuses on productivity and downtime analysis.
-
-Does not include cost, maintenance logs, or financial impact analysis.
-
-4. Data Set and Analysis
-
-Machine-wise downtime comparison.
-
-Planned vs. Unplanned downtime analysis.
-
-Shift-wise and operator-wise performance comparison.
-
-Target vs. actual production gap analysis.
-
-5. Insights Delivered
-
-Identification of high-downtime machines.
-
-Detection of higher unplanned downtime patterns.
-
-Performance variation across shifts and operators.
-
-Evidence of systemic inefficiencies affecting targets.
-
-6. Final Output
-
-Excel dashboard summarizing machine performance.
-
-Clear identification of problem areas.
-
-Actionable recommendations for downtime reduction and productivity improvement.
+* Interactive Excel dashboard summarizing machine performance.
+* Clear identification of key problem areas.
+* Practical recommendations for downtime reduction and productivity improvement.
