@@ -1,4 +1,4 @@
-Machine Downtime Reduction in Automobile Parts Manufacturing Units EXCEL
+MACHINE DOWNTIME REDUCTION IN AUTOMOBILE PARTS MANUFACTURING UNITS
  
  🚀 **PROJECT OVERVIEW**
 
