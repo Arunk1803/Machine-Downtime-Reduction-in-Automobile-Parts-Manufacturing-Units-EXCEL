@@ -12,7 +12,7 @@
 
 ### 📊 **1. DATA SET OVERVIEW**
 
-* Data collected for 2 days of CNC machine operations.
+* Data collected from industry reports of CNC machine operations.
 * Includes Date, Shift, Operator, Machine ID.
 * Captures Total Production, Planned Downtime, Unplanned Downtime, and Achievement %.
 
